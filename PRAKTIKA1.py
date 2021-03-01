@@ -12,7 +12,7 @@ datuak = []
 
 
 def handler(sig_num, frame):
-    # Erabilitako kanala hustu
+    # Erabilitako kanala hustua
     kanala_hustu()
 
     # Gertaera kudeatu
